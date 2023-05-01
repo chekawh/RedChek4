@@ -7,10 +7,14 @@ sudo git clone
 
 cd RedChek4
 
+----------------------------------------><----------------------------------------
 
 #Debemos instalar antes de iniciar el programa la libreria para que no salte el error al cargar el favicon de la aplicación.
 
 sudo apt-get install --reinstall python3-pil.imagetk
+
+
+----------------------------------------><----------------------------------------
 
 
 #Luego iniciamos el programa
