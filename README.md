@@ -11,4 +11,5 @@ sudo apt-get install --reinstall python3-pil.imagetk
 #Luego iniciamos el programa
 sudo python3 RedChek4.py
 
-![image](https://user-images.githubusercontent.com/45906536/235546233-a878d8da-a2be-4892-b0dd-bea82d172b0b.png)
+![image](https://user-images.githubusercontent.com/45906536/235546406-4557189c-7002-4e5a-92c0-68415592084f.png)
+
