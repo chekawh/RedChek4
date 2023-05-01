@@ -1,5 +1,5 @@
 # RedChek4
-RedChek4 es el primer programa con interfaz gráfica para auditar redes wifis de manera rápida y efectiva. Esta es la versión free que podrán disponer de lo básico para efectuar la obtención del Handshake.
+RedChek4 es el primer programa con interfaz gráfica para auditar redes wifis de manera rápida y efectiva. Esta es la versión free que podrán disponer de lo básico para efectuar la obtención del Handshake. Estoy trabajando en una versión premium/pago donde implementaré más opciones para que termine siendo un programa completo con todas sus necesidades.
 
 #Primeros pasos
 
