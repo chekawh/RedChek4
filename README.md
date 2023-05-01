@@ -3,6 +3,7 @@ RedChek4 es el primer programa con interfaz gráfica para auditar redes wifis de
 
 
 sudo git clone 
+
 cd RedChek4
 
 #Debemos instalar antes de iniciar el programa la libreria para que no salte el error al cargar el favicon de la aplicación.
