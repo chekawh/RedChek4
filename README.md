@@ -34,6 +34,7 @@ Si quereís apoyar el proyecto que estoy realizando tienen mi paypal a continuac
 Paypal: cuentasdiscordnitros@gmail.com
 
 ----------------------------------------><----------------------------------------
+
 ----------------------------------------><----------------------------------------
 
 IMPORTANTE: *NO ME HAGO RESPONSABLE DEL MAL USO Y MALAS PRÁCTICAS QUE SE PUEDAN EJERCER DESDE LA APLICACIÓN, TODO ESTO ES DE MANERA EDUCATIVA Y FACILITAR MEDIANTE UNA APLICACIÓN GRÁFICA LOS PEQUEÑOS PROYECTOS QUE TENGAMOS QUE HACER, EN LOS ENTORNOS CONTROLADO SIEMPRE. TODO AQUELLO QUE NO SEA LO COMENTADO ANTERIORMENTE EL PROPIETARIO  {Cheka@WH} NO SE HACE RESPONSABLE DE NADA.*
