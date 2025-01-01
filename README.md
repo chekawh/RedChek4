@@ -31,7 +31,6 @@ sudo python3 RedChek4.py
 
 Si quereís apoyar el proyecto que estoy realizando tienen mi paypal a continuación:
 
-Paypal: cuentasdiscordnitros@gmail.com
 
 ----------------------------------------><----------------------------------------
 
