@@ -29,11 +29,5 @@ sudo python3 RedChek4.py
 
 ----------------------------------------><----------------------------------------
 
-Si quereís apoyar el proyecto que estoy realizando tienen mi paypal a continuación:
-
-
-----------------------------------------><----------------------------------------
-
-----------------------------------------><----------------------------------------
 
 IMPORTANTE: *NO ME HAGO RESPONSABLE DEL MAL USO Y MALAS PRÁCTICAS QUE SE PUEDAN EJERCER DESDE LA APLICACIÓN, TODO ESTO ES DE MANERA EDUCATIVA Y FACILITAR EL PROCESO MEDIANTE UNA APLICACIÓN GRÁFICA AQUELLOS PROYECTOS QUE TENGAMOS QUE HACER, EN LOS ENTORNOS CONTROLADO SIEMPRE. TODO AQUELLO QUE NO SEA LO COMENTADO ANTERIORMENTE EL PROPIETARIO  {Cheka@WH} NO SE HACE RESPONSABLE DE NADA.*
